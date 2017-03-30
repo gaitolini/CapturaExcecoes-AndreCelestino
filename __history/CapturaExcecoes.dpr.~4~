@@ -1,0 +1,26 @@
+program CapturaExcecoes;
+
+uses
+  EMemLeaks,
+  EResLeaks,
+  EDialogConsole,
+  EDebugExports,
+  EDebugJCL,
+  EFixSafeCallException,
+  EMapWin32,
+  EAppConsole,
+  ExceptionLog7,
+  Vcl.Forms,
+  uFormulario in 'uFormulario.pas' {FormCapturaExcecoes},
+  uCapturaExcecoes in 'uCapturaExcecoes.pas',
+  uMensagem in 'uMensagem.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TFormCapturaExcecoes, FormCapturaExcecoes);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

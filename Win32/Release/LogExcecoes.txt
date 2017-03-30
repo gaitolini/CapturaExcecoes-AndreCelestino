@@ -1,0 +1,91 @@
+Data/Hora.......: 27/03/2017 21:29:32
+Mensagem........: Cannot open file "D:\CapturaExcecoes-AndreCelestino\CapturaExcecoes-AndData/Hora.......: 27/03/2017 21:30:47
+Mensagem........: 'A' is not a valid integer value
+Classe Exceção..: EConvertError
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button1
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:30:51
+Mensagem........: Division by zero
+Classe Exceção..: EDivByZero
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button2
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:30:56
+Mensagem........: List index out of bounds (1)
+Classe Exceção..: EListError
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button3
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:30:59
+Mensagem........: Cannot open file "C:\ArquivoInexistente.txt". O sistema não pode encontrar o arquivo especificado
+Classe Exceção..: EFOpenError
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button4
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:31:01
+Mensagem........: Field 'Campo' not found
+Classe Exceção..: EDatabaseError
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button5
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:39:12
+Mensagem........: 'A' is not a valid integer value
+Classe Exceção..: EConvertError
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button1
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:39:13
+Mensagem........: Division by zero
+Classe Exceção..: EDivByZero
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button2
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:39:13
+Mensagem........: List index out of bounds (1)
+Classe Exceção..: EListError
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button3
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:39:14
+Mensagem........: Cannot open file "C:\ArquivoInexistente.txt". O sistema não pode encontrar o arquivo especificado
+Classe Exceção..: EFOpenError
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button4
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
+Data/Hora.......: 27/03/2017 21:39:15
+Mensagem........: Field 'Campo' not found
+Classe Exceção..: EDatabaseError
+Formulário......: FormCapturaExcecoes
+Unit............: uFormulario
+Controle Visual.: Button5
+Usuario.........: VictorHugo
+Versão Windows..: Windows 10
+----------------------------------------------------------------------
